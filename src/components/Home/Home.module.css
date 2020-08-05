@@ -1,0 +1,41 @@
+.Foodie {
+  font-size: 50px;
+}
+
+.Para1 {
+  font-size: larger;
+}
+
+.Align {
+  text-align: center;
+}
+
+.Align2 {
+  text-align: justify;
+}
+
+.Card {
+  display: inline-flex;
+}
+
+.Button a {
+  color: #fff;
+}
+
+.Button a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.Button2 {
+  margin-left: 70px;
+}
+
+.Button2 a {
+  color: #fff;
+}
+
+.Button2 a:hover {
+  color: #fff;
+  text-decoration: none;
+}

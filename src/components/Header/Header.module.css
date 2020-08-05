@@ -1,0 +1,13 @@
+.Brand a {
+  color: white;
+}
+
+.Brand a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.Fixed {
+  position: fixed;
+  top: 0;
+}

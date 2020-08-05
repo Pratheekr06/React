@@ -1,0 +1,4 @@
+{
+  "ATLAS_URI": "mongodb+srv://pratheek:dreammate@cluster0.pw6tq.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "myJwtSecret"
+}

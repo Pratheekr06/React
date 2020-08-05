@@ -1,0 +1,16 @@
+.Blog {
+  text-align: center;
+}
+
+.Form {
+  width: 50%;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.Back {
+  color: #282c7b;
+  cursor: pointer;
+
+  padding-top: 15px;
+}
